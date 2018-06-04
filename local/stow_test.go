@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
-	"github.com/graymeta/stow/test"
+	"github.com/presidium-io/stow"
+	"github.com/presidium-io/stow/test"
 )
 
 func TestStow(t *testing.T) {

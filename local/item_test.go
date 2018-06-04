@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/cheekybits/is"
-	"github.com/graymeta/stow"
-	"github.com/graymeta/stow/local"
+	"github.com/presidium-io/stow"
+	"github.com/presidium-io/stow/local"
 )
 
 func TestItemReader(t *testing.T) {
