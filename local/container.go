@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 )
 
 type container struct {

@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 	"github.com/ncw/swift"
 )
 

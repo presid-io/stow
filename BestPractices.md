@@ -8,19 +8,19 @@ Create a file called `storage.go` in your package and add the following code:
 
 ```go
 import (
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 	// support Azure storage
-	_ "github.com/presidium-io/stow/azure"
+	_ "github.com/presid-io/stow/azure"
 	// support Google storage
-	_ "github.com/presidium-io/stow/google"
+	_ "github.com/presid-io/stow/google"
 	// support local storage
-	_ "github.com/presidium-io/stow/local"
+	_ "github.com/presid-io/stow/local"
 	// support swift storage
-	_ "github.com/presidium-io/stow/swift"
+	_ "github.com/presid-io/stow/swift"
 	// support s3 storage
-	_ "github.com/presidium-io/stow/s3"
+	_ "github.com/presid-io/stow/s3"
 	// support oracle storage
-	_ "github.com/presidium-io/stow/oracle"
+	_ "github.com/presid-io/stow/oracle"
 )
 
 // Dial dials stow storage.

@@ -13,8 +13,8 @@ Use a type conversion to extract the underlying `Location`, `Container`, or `Ite
 ```go
 import (
   "log"
-  "github.com/presidium-io/stow"
-  stowgs "github.com/presidium-io/stow/google"
+  "github.com/presid-io/stow"
+  stowgs "github.com/presid-io/stow/google"
 )
 
 stowLoc, err := stow.Dial(stowgs.Kind, stow.ConfigMap{

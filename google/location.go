@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 	storage "google.golang.org/api/storage/v1"
 )
 

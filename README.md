@@ -1,7 +1,7 @@
 ![Stow logo](stow-aeroplane.png)
 ![Stow definition](stow-definition.png)
-[![GoDoc](https://godoc.org/github.com/presidium-io/stow?status.svg)](https://godoc.org/github.com/presidium-io/stow)
-[![Go Report Card](https://goreportcard.com/badge/github.com/presidium-io/stow)](https://goreportcard.com/report/github.com/presidium-io/stow)
+[![GoDoc](https://godoc.org/github.com/presid-io/stow?status.svg)](https://godoc.org/github.com/presid-io/stow)
+[![Go Report Card](https://goreportcard.com/badge/github.com/presid-io/stow)](https://goreportcard.com/report/github.com/presid-io/stow)
 
 Cloud storage abstraction package for Go.
 
@@ -75,9 +75,9 @@ Import Stow plus any of the implementation packages that you wish to provide. Fo
 
 ```go
 import (
-	"github.com/presidium-io/stow"
-	_ "github.com/presidium-io/stow/google"
-	_ "github.com/presidium-io/stow/s3"
+	"github.com/presid-io/stow"
+	_ "github.com/presid-io/stow/google"
+	_ "github.com/presid-io/stow/s3"
 )
 ```
 

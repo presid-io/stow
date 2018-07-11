@@ -10,7 +10,7 @@ container:
 	docker build --no-cache -t builder-stow test/
 
 runcontainer:
-	docker run -v $(WORKSPACE):/mnt/src/github.com/presidium-io/stow builder-stow
+	docker run -v $(WORKSPACE):/mnt/src/github.com/presid-io/stow builder-stow
 
 deps:
 	go get github.com/tebeka/go2xunit

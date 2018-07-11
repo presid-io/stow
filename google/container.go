@@ -4,7 +4,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 	"github.com/pkg/errors"
 	storage "google.golang.org/api/storage/v1"
 )

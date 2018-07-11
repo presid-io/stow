@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/cheekybits/is"
-	"github.com/presidium-io/stow"
-	"github.com/presidium-io/stow/local"
+	"github.com/presid-io/stow"
+	"github.com/presid-io/stow/local"
 )
 
 func TestContainers(t *testing.T) {

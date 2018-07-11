@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 )
 
 // ConfigKeys are the supported configuration items for

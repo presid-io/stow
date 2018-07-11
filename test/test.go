@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/cheekybits/is"
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 )
 
 // All runs a generic suite of tests for Stow storage

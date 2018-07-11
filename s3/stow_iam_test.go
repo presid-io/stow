@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/presidium-io/stow"
-	"github.com/presidium-io/stow/test"
+	"github.com/presid-io/stow"
+	"github.com/presid-io/stow/test"
 )
 
 func TestStowIAM(t *testing.T) {

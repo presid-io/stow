@@ -5,7 +5,7 @@ import (
 	"net/url"
 
 	az "github.com/Azure/azure-sdk-for-go/storage"
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 )
 
 // ConfigAccount and ConfigKey are the supported configuration items for

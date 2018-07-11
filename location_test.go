@@ -3,7 +3,7 @@ package stow_test
 import (
 	"net/url"
 
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 )
 
 func init() {

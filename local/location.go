@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/presidium-io/stow"
+	"github.com/presid-io/stow"
 )
 
 type location struct {
